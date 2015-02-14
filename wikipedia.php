@@ -270,6 +270,7 @@
           </a>
           <span ng-if="data.stats.hasOwnProperty('pages')">{{ data.stats.pages }} pages</span>
         </span>
+	<code class="pull-right">{{ organisation.min }} - {{ organisation.max }}</code>
       </div>
       <div class="list-group" ng-if="organisation.expanded">
         <div class="list-group-item" ng-repeat-start="page in data.pages | pagesWithMostRecentEditFirst">
