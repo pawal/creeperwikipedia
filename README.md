@@ -1,9 +1,18 @@
-# creeperwikipedia
-Code for displaying Wikipedia changes from Creeper IP addresses.
-The Creeper API for IP addresses is at http://gnuheter.com/creeper/jsonip
+# [creeperwikipedia](http://gnuheter.com/creeper/wikipedia)
 
-Also using the Wikimedia Tool Labs API: http://tools.wmflabs.org/
+Code for displaying [Swedish Wikipedia](https://sv.wikipedia.org/) changes made from [Creeper](http://gnuheter.com/creeper/)'s list of IP addresses belonging to Sweden's public authorities, military and political parties.
 
-Intended for use at http://gnuheter.com/creeper/wikipedia
+See creeperwikipedia in action at http://gnuheter.com/creeper/wikipedia
 
-Based on Angular and Bootstrap. Feel free to help with making it better.
+
+
+## See also
+
+- [Creeper](http://gnuheter.com/creeper/)
+- [The Creeper API](http://gnuheter.com/creeper/jsonip) (JSON) for IP addresses belonging to Sweden's public authorities, military and political parties
+- [The Wikimedia Tool Labs API](http://tools.wmflabs.org/)
+- [Most recent changes on the Swedish Wikipedia](https://sv.wikipedia.org/wiki/Special:Senaste_%C3%A4ndringar)
+
+
+
+Based on [AngularJS](http://angularjs.org/) and [Bootstrap](http://getbootstrap.com/). Feel free to help making [creeperwikipedia](http://gnuheter.com/creeper/wikipedia) better.
